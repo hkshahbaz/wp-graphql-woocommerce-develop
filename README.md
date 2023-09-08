@@ -102,17 +102,4 @@ Note: The 'Enable Unsupported Product Type' option can be found on the same sett
 
 With WooGraphQL Pro and your chosen extensions now installed, you're ready to build more sophisticated, feature-rich eCommerce solutions with WordPress and WooCommerce.
 
-## Playground
-
-Feel free to test out the extension using this [GraphiQL Playground](https://woographql.com/playground). The playground allows you to execute queries and mutations, as well as view the schema (*).
-
-(*) I have a tendency to forget to update the playground between releases :sweat_smile:, so if you believe this to be the case look me up somewhere on this page and lemme know :man_shrugging:
-
-## Wanna help support WooGraphQL's future
-
-- Sponsor **@kidunot89** *(WooGraphQL Creator/Developer)* on **[Github](https://github.com/sponsors/kidunot89)**
-- Sponsor **WooGraphQL** on **[OpenCollective](https://opencollective.com/woographql)**
-- Sponsor **WPGraphQL** on **[OpenCollective](http://opencollective.com/wp-graphql)**
-- Sponsor **GraphQL-PHP** on **[OpenCollective](https://opencollective.com/webonyx-graphql-php)**
-- Or **[Contribute](./CONTRIBUTING.md)**
 
